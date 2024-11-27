@@ -3,4 +3,5 @@
 	let { children } = $props();
 </script>
 
+<a href="/">home</a>
 {@render children()}
